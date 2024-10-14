@@ -24,7 +24,7 @@ Auf Grundlage ihres Brainstormings zu den Auswirkungen benennen Sie als Ausgang 
 Zur fachlichen Erschließung des Sub-Themas 4 (E5): 
 *  Umgang mit dem Gefährdungspotenzial [KC Oberstufe Erdkunde Hessen](https://kultusministerium.hessen.de/sites/kultusministerium.hessen.de/files/2023-02/kcgo-ek.pdf)
 
-sollen Sie auf Grundlage ihres Brainstormings eine fachliche Literaturrecherche zum Umgang mit dem Gefährdungspotenzial ihrer skizzierten Erdbeben-Szenarien anfertigen und dies schriftlich in einer Sachanalyse festhalten (Skizze). Laden Sie die Skizzen bis spätestens Sonntag 23:55 Uhr im dafür vorgesehenen Ilias-Ordner hoch. 
+sollen Sie auf Grundlage ihres Brainstormings eine fachliche Literaturrecherche zum Umgang mit dem Gefährdungspotenzial ihrer skizzierten Erdbeben-Szenarien anfertigen und dies schriftlich in einer Sachanalyse festhalten (Skizze). Laden Sie die Skizzen bis spätestens Montag 20 Uhr im dafür vorgesehenen Ilias-Ordner hoch. 
 
 
 # Verschiftlichung einer Sachanalyse

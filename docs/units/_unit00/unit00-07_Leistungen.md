@@ -4,10 +4,13 @@ header:
   image: "/assets/images/climate-splash.jpg"
   caption: 'Photo: **Rieke Ammoneit**'
 ---
+Hier finden Sie die formalen Anforderungen.
+<!--more-->
 
 Prüfungsleistung  
 Laden Sie Ihre Prüfungsleistung (Portfolio) einzeln unter folgender Bezeichnung: Nachname_Prüfungsleistung bis spätestens 31.03.2024 im dafür vorgesehenen Ilias-Ordner in einem Dokument hoch.
 Das Portfolio besteht aus den folgenden semesterbegleitenden Abgaben, wobei A08 (Sachanalyse) bereits 50% der Note der Prüfungsleistung ausmacht.
+
 
 * A01: Was ist Geographie? (Peter/ Nauss)
 

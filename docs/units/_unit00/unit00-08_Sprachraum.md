@@ -1,10 +1,10 @@
 ---
 title: Sprachraum Afrika
-toc: true
 header:
-  image: "/assets/images/02-splash.jpg"
-  caption: 'Photo: [**Environmental Informatics**](https://www.flickr.com/photos/environmentalinformatics-marburg/29395927104/in/album-72157633683022206/)'
+  image: "/assets/images/climate-splash.jpg"
+  caption: 'Photo: **Rieke Ammoneit**'
 ---
+
 
 # Interdisziplinäres lehren und lernen
 

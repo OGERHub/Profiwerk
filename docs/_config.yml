@@ -90,6 +90,9 @@ collections:
   unit07:
     output: true
     permalink: /:collection/:title.html
+  unit08:
+    output: true
+    permalink: /:collection/:title.html 
   worksheets:
     output: true
     permalink: /:collection/:title.html

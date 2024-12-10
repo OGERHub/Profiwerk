@@ -26,29 +26,42 @@ Aufgaben:
 1. Was ist die Frankophonie? Was sind frankophone Länder? Bei Bedarf Rpckfragen sammeln. 
   (5 Minuten) 
 
-2. Rückbezug Wardengas Raumkonzepte: 
-  •	Raumkonzepte in Erinnerung rufen und noch einmal in Gruppen diskutieren 
-  •	Sammelt dazu Merkmale der verschiedenen Raumkonzepte 
-  •	Seid vorbereitet, die Raumkonzepte zu erklären 
+2. Rückbezug Wardengas Raumkonzepte:
+   
+  •	Rufen Sie die Raumkonzepte nach Wardenga in Erinnerung und diskutieren Sie in Ihrer Kleingruppe darüber
+  •	Sammeln Sie dazu Merkmale der verschiedenen Raumkonzepte 
+  •	Seien Sie vorbereitet, die Raumkonzepte zu erklären 
   (5 Minuten) 
 
-3. Poster-Vorbereitung in Kleingruppen: Vorbereitung für den Austausch
+4. Poster-Vorbereitung in Kleingruppen: Vorbereitung für den Austausch
+   
   •	Überblick des Vorhabens (der Unterrichtsentwürfe/ Poster)
+  
   •	Was ist unklar? Rückfragen (z.B. inhaltlich; Stundengestaltung..)
+  
   •	Raumkonzepte: Welche Raumkonzepte haben die Studierenden ausgewählt?	Wie ist die Auswahl zu begründen?
+  
   •	Überlegen Sie als Expert*innen anhand der Inhalte: Eignen sich die ausgewählten Raumkonzepte und warum? 
+  
   •	Ergänzen Sie ggf. alternative Ideen zur Anwendung der Raumkonzepte 
   (20 Minuten) 
 
 ## Durchführung der gemeinsamen Sitzung
 1. Französischdidaktiker*innen stellen die Poster vor: Gallery Walk zum inhaltlichen Austausch in den "Poster-Gruppen" mit jeweils 3-4 Geographiedidakter*innen (ca. 35 Minuten) 
-2. Arbeitsphase in Kleingruppen für jedes Poster und folgenden Leitfragen: 
-   • Wie könnten die Entwürfe weiterentwickelt werden? 
-   • Wie kann das Thema Frankophonie unter Perspektive der Raumkonzepte im Unterricht weiterentwickelt werden? 
+2. Arbeitsphase in Kleingruppen für jedes Poster und folgenden Leitfragen:
+
+   • Wie könnten die Entwürfe weiterentwickelt werden?
+   
+   • Wie kann das Thema Frankophonie unter Perspektive der Raumkonzepte im Unterricht weiterentwickelt werden?
+   
    • Diskutieren Sie dazu auch fachdidaktische Perspektiven für den Unterricht
-   • Diskutieren Sie mögliche Lernsettings des interdisziplinären Unterrichts 
-   • Welche Chancen und Grenzen gibt es im interdisziplinären Unterricht? (Konkretes Beispiel finden) 
-   • Eigene Erfahrungen mit interdisziplinärer Lehre austauschen 
+   
+   • Diskutieren Sie mögliche Lernsettings des interdisziplinären Unterrichts
+   
+   • Welche Chancen und Grenzen gibt es im interdisziplinären Unterricht? (Konkretes Beispiel finden)
+   
+   • Eigene Erfahrungen mit interdisziplinärer Lehre austauschen
+   
    (30 Minuten) 
 
 ## Kompetenzen zur Förderung der transkulturellen Kompetenz im Rahmen eines fächerübergreifenden Projekts Geografie- und Französischdidaktik

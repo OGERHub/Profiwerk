@@ -52,7 +52,8 @@ Aufgaben:
   
     •	Überlegen Sie als Expert*innen anhand der Inhalte: Eignen sich die ausgewählten Raumkonzepte und warum? 
   
-    •	Ergänzen Sie ggf. alternative Ideen zur Anwendung der Raumkonzepte 
+    •	Ergänzen Sie ggf. alternative Ideen zur Anwendung der Raumkonzepte
+   
     (20 Minuten) <br><br>
   
 

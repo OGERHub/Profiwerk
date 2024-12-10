@@ -44,21 +44,21 @@ Aufgaben:
 
 3. Poster-Vorbereitung in Kleingruppen: Vorbereitung für den Austausch
    
-  •	Überblick des Vorhabens (der Unterrichtsentwürfe/ Poster)
+    •	Überblick des Vorhabens (der Unterrichtsentwürfe/ Poster)
   
-  •	Was ist unklar? Rückfragen (z.B. inhaltlich; Stundengestaltung..)
+    •	Was ist unklar? Rückfragen (z.B. inhaltlich; Stundengestaltung..)
   
-  •	Raumkonzepte: Welche Raumkonzepte haben die Studierenden ausgewählt? Wie ist die Auswahl zu begründen?
+    •	Raumkonzepte: Welche Raumkonzepte haben die Studierenden ausgewählt? Wie ist die Auswahl zu begründen?
   
-  •	Überlegen Sie als Expert*innen anhand der Inhalte: Eignen sich die ausgewählten Raumkonzepte und warum? 
+    •	Überlegen Sie als Expert*innen anhand der Inhalte: Eignen sich die ausgewählten Raumkonzepte und warum? 
   
-  •	Ergänzen Sie ggf. alternative Ideen zur Anwendung der Raumkonzepte 
-  (20 Minuten) <br><br>
+    •	Ergänzen Sie ggf. alternative Ideen zur Anwendung der Raumkonzepte 
+    (20 Minuten) <br><br>
   
 
 ## Durchführung der gemeinsamen Sitzung
 
-1. Französischdidaktiker*innen stellen die Poster vor: Gallery Walk zum inhaltlichen Austausch in den "Poster-Gruppen" mit jeweils 3-4 Geographiedidaktiker*innen (ca. 35 Minuten)<br><br>
+1. Französischdidaktiker*innen* stellen die Poster vor: Gallery Walk zum inhaltlichen Austausch in den "Poster-Gruppen" mit jeweils 3-4 Geographiedidaktiker*innen* (ca. 35 Minuten)<br><br>
 
    
    

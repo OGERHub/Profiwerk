@@ -22,9 +22,12 @@ Entwicklung von Postern zur folgenden Aufgabenstellung: Begründete Auswahl eine
 
 Geographiedidaktik: 
 Zeitpunkt: In der Sitzung vor der interdisziplinären Sitzung (ca. 30 Minuten) 
+
 Aufgaben:
+
 1. Was ist die Frankophonie? Was sind frankophone Länder? Bei Bedarf Rpckfragen sammeln. 
   (5 Minuten) 
+
 
 2. Rückbezug Wardengas Raumkonzepte:
    
@@ -35,8 +38,9 @@ Aufgaben:
   •	Seien Sie vorbereitet, die Raumkonzepte zu erklären 
   
   (5 Minuten) 
+  
 
-4. Poster-Vorbereitung in Kleingruppen: Vorbereitung für den Austausch
+3. Poster-Vorbereitung in Kleingruppen: Vorbereitung für den Austausch
    
   •	Überblick des Vorhabens (der Unterrichtsentwürfe/ Poster)
   
@@ -48,8 +52,10 @@ Aufgaben:
   
   •	Ergänzen Sie ggf. alternative Ideen zur Anwendung der Raumkonzepte 
   (20 Minuten) 
+  
 
 ## Durchführung der gemeinsamen Sitzung
+
 1. Französischdidaktiker*innen stellen die Poster vor: Gallery Walk zum inhaltlichen Austausch in den "Poster-Gruppen" mit jeweils 3-4 Geographiedidakter*innen (ca. 35 Minuten)
    
 2. Arbeitsphase in Kleingruppen für jedes Poster und folgenden Leitfragen:
@@ -69,6 +75,7 @@ Aufgaben:
    (30 Minuten) 
 
 ## Kompetenzen zur Förderung der transkulturellen Kompetenz im Rahmen eines fächerübergreifenden Projekts Geografie- und Französischdidaktik
+
 1.	Erwerb interkultureller Sensibilität: Die Studierenden sollen die Fähigkeit entwickeln, kulturelle Unterschiede zwischen der eigenen Kultur und den vielfältigen Kulturen der Frankophonie zu identifizieren, zu analysieren und zu reflektieren. Dies umfasst das Verständnis von Normen, Werten und Verhaltensweisen, die in verschiedenen geografischen und kulturellen Kontexten der Frankophonie eine Rolle spielen.
    
 2.	Wertschätzung kultureller Diversität: Die Studierenden sollen ein Bewusstsein für die kulturelle Vielfalt innerhalb der Frankophonie in Bezug zur Geografiedidaktik entwickeln.

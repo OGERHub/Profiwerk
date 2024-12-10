@@ -32,13 +32,13 @@ Aufgaben:
 
 2. Rückbezug Wardengas Raumkonzepte:
    
-  •	Rufen Sie die Raumkonzepte nach Wardenga in Erinnerung und diskutieren Sie in Ihrer Kleingruppe darüber
+    •	Rufen Sie die Raumkonzepte nach Wardenga in Erinnerung und diskutieren Sie in Ihrer Kleingruppe darüber
   
-  •	Sammeln Sie dazu Merkmale der verschiedenen Raumkonzepte 
+    •	Sammeln Sie dazu Merkmale der verschiedenen Raumkonzepte 
   
-  •	Seien Sie vorbereitet, die Raumkonzepte zu erklären 
+    •	Seien Sie vorbereitet, die Raumkonzepte zu erklären 
   
-  (5 Minuten) <br><br>
+    (5 Minuten) <br><br>
 
   
 
@@ -79,7 +79,8 @@ Aufgaben:
    (30 Minuten) <br><br>
 
 
-## Kompetenzen zur Förderung der transkulturellen Kompetenz im Rahmen eines fächerübergreifenden Projekts Geografie- und Französischdidaktik
+## Kompetenzen 
+... zur Förderung der transkulturellen Kompetenz im Rahmen eines fächerübergreifenden Projekts Geographie- und Französischdidaktik
 
 1.	Erwerb interkultureller Sensibilität: Die Studierenden sollen die Fähigkeit entwickeln, kulturelle Unterschiede zwischen der eigenen Kultur und den vielfältigen Kulturen der Frankophonie zu identifizieren, zu analysieren und zu reflektieren. Dies umfasst das Verständnis von Normen, Werten und Verhaltensweisen, die in verschiedenen geografischen und kulturellen Kontexten der Frankophonie eine Rolle spielen.<br><br>
    

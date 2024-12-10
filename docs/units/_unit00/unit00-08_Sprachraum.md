@@ -29,6 +29,7 @@ Aufgaben:
   (5 Minuten) 
 
 
+
 2. Rückbezug Wardengas Raumkonzepte:
    
   •	Rufen Sie die Raumkonzepte nach Wardenga in Erinnerung und diskutieren Sie in Ihrer Kleingruppe darüber
@@ -38,6 +39,7 @@ Aufgaben:
   •	Seien Sie vorbereitet, die Raumkonzepte zu erklären 
   
   (5 Minuten) 
+
   
 
 3. Poster-Vorbereitung in Kleingruppen: Vorbereitung für den Austausch
@@ -57,6 +59,8 @@ Aufgaben:
 ## Durchführung der gemeinsamen Sitzung
 
 1. Französischdidaktiker*innen stellen die Poster vor: Gallery Walk zum inhaltlichen Austausch in den "Poster-Gruppen" mit jeweils 3-4 Geographiedidaktiker*innen (ca. 35 Minuten)
+
+   
    
 2. Arbeitsphase in Kleingruppen für jedes Poster und folgenden Leitfragen:
 
@@ -73,6 +77,7 @@ Aufgaben:
    • Eigene Erfahrungen mit interdisziplinärer Lehre austauschen
    
    (30 Minuten) 
+
 
 ## Kompetenzen zur Förderung der transkulturellen Kompetenz im Rahmen eines fächerübergreifenden Projekts Geografie- und Französischdidaktik
 

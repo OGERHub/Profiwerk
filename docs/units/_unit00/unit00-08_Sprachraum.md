@@ -46,7 +46,7 @@ Aufgaben:
   
   •	Was ist unklar? Rückfragen (z.B. inhaltlich; Stundengestaltung..)
   
-  •	Raumkonzepte: Welche Raumkonzepte haben die Studierenden ausgewählt?	Wie ist die Auswahl zu begründen?
+  •	Raumkonzepte: Welche Raumkonzepte haben die Studierenden ausgewählt? Wie ist die Auswahl zu begründen?
   
   •	Überlegen Sie als Expert*innen anhand der Inhalte: Eignen sich die ausgewählten Raumkonzepte und warum? 
   

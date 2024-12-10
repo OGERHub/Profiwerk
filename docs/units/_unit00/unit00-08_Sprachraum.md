@@ -1,5 +1,6 @@
 ---
 title: Sprachraum Afrika
+toc: true
 header:
   image: "/assets/images/climate-splash.jpg"
   caption: 'Photo: **Rieke Ammoneit**'

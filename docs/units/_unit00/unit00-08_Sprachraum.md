@@ -15,7 +15,7 @@ Besonders bei der Lösung komplexer Probleme zeigt sich die Stärke interdiszipl
 Thema: Sprachraum Afrika - La Frankophonie und die Raumkonzepte nach Wardenga. Eine interdisziplinäre Perspektive
 Ziel: Entwicklung eines Vermittlungskonzeptes zum "Sprachraum Afrika"
 
-## Vorbereitung:
+## Vorbereitung in den einzelnen Kursen:
 
 Französischdidaktik: 
 Entwicklung von Postern zur folgenden Aufgabenstellung: Begründete Auswahl eines frankophonen Landes und Einführung in die Raumkonzepte Wardengas (Text aus der Geodidaktik). Anschließende Ausarbeitung der Konzepte des gewählten Raumbeispiels (frankophones Land)  
@@ -56,7 +56,7 @@ Aufgaben:
 
 ## Durchführung der gemeinsamen Sitzung
 
-1. Französischdidaktiker*innen stellen die Poster vor: Gallery Walk zum inhaltlichen Austausch in den "Poster-Gruppen" mit jeweils 3-4 Geographiedidakter*innen (ca. 35 Minuten)
+1. Französischdidaktiker*innen stellen die Poster vor: Gallery Walk zum inhaltlichen Austausch in den "Poster-Gruppen" mit jeweils 3-4 Geographiedidaktiker*innen (ca. 35 Minuten)
    
 2. Arbeitsphase in Kleingruppen für jedes Poster und folgenden Leitfragen:
 

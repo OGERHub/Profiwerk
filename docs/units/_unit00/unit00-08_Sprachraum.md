@@ -12,7 +12,7 @@ Interdisziplinäres Lernen ermöglicht die Verknüpfung verschiedener Fachgebiet
 Besonders bei der Lösung komplexer Probleme zeigt sich die Stärke interdisziplinären Arbeitens. Reale, vielschichtige Fragestellungen erfordern ein breites Spektrum an Herangehensweisen und eine hohe Flexibilität. Dieses Lernen vermittelt die Fähigkeit, unterschiedliche Perspektiven einzunehmen und kreative Lösungen zu entwickeln, die über rein fachliche Grenzen hinausgehen.
 
 ## Projekt: Interdisziplinäre Sitzung der Französischdidaktik und Gegoraphiedidaktik 
-Thema: Sprachraum Afrika - La Frankophonie und die Raumkonzepte nach Wardenga. Eine interdisziplinäre Perspektive
+Thema: Sprachraum Afrika - La Frankophonie und die Raumkonzepte nach Wardenga. Eine interdisziplinäre Perspektive <br><br>
 Ziel: Entwicklung eines Vermittlungskonzeptes zum "Sprachraum Afrika"
 
 ## Vorbereitung in den einzelnen Kursen:

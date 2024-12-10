@@ -29,8 +29,11 @@ Aufgaben:
 2. Rückbezug Wardengas Raumkonzepte:
    
   •	Rufen Sie die Raumkonzepte nach Wardenga in Erinnerung und diskutieren Sie in Ihrer Kleingruppe darüber
+  
   •	Sammeln Sie dazu Merkmale der verschiedenen Raumkonzepte 
+  
   •	Seien Sie vorbereitet, die Raumkonzepte zu erklären 
+  
   (5 Minuten) 
 
 4. Poster-Vorbereitung in Kleingruppen: Vorbereitung für den Austausch
@@ -47,7 +50,8 @@ Aufgaben:
   (20 Minuten) 
 
 ## Durchführung der gemeinsamen Sitzung
-1. Französischdidaktiker*innen stellen die Poster vor: Gallery Walk zum inhaltlichen Austausch in den "Poster-Gruppen" mit jeweils 3-4 Geographiedidakter*innen (ca. 35 Minuten) 
+1. Französischdidaktiker*innen stellen die Poster vor: Gallery Walk zum inhaltlichen Austausch in den "Poster-Gruppen" mit jeweils 3-4 Geographiedidakter*innen (ca. 35 Minuten)
+   
 2. Arbeitsphase in Kleingruppen für jedes Poster und folgenden Leitfragen:
 
    • Wie könnten die Entwürfe weiterentwickelt werden?
@@ -66,7 +70,10 @@ Aufgaben:
 
 ## Kompetenzen zur Förderung der transkulturellen Kompetenz im Rahmen eines fächerübergreifenden Projekts Geografie- und Französischdidaktik
 1.	Erwerb interkultureller Sensibilität: Die Studierenden sollen die Fähigkeit entwickeln, kulturelle Unterschiede zwischen der eigenen Kultur und den vielfältigen Kulturen der Frankophonie zu identifizieren, zu analysieren und zu reflektieren. Dies umfasst das Verständnis von Normen, Werten und Verhaltensweisen, die in verschiedenen geografischen und kulturellen Kontexten der Frankophonie eine Rolle spielen.
-2.	Wertschätzung kultureller Diversität: Die Studierenden sollen ein Bewusstsein für die kulturelle Vielfalt innerhalb der Frankophonie in Bezug zur Geografiedidaktik entwickeln. 
+   
+2.	Wertschätzung kultureller Diversität: Die Studierenden sollen ein Bewusstsein für die kulturelle Vielfalt innerhalb der Frankophonie in Bezug zur Geografiedidaktik entwickeln.
+   
 3.	Geografische und kulturelle Reflexion: Die Studierenden sollen die Wechselwirkungen zwischen geographischen Gegebenheiten und kulturellen Identitäten in der Frankophonie reflektieren. Dies umfasst die Analyse, wie geografische Faktoren wie Klima, Topografie und Ressourcenverteilung die kulturelle Entwicklung und die Lebensweisen der Menschen in frankophonen Ländern beeinflussen.
+   
 4.	Praktische Anwendung transkultureller Kompetenzen: Die Studierenden sollen die Möglichkeit erhalten, ihr Wissen mit Studierenden eines anderen Fachbereichs zu teilen und in einem neuen Kontext anzuwenden.
 

@@ -26,7 +26,7 @@ Zeitpunkt: In der Sitzung vor der interdisziplinären Sitzung (ca. 30 Minuten)
 Aufgaben:
 
 1. Was ist die Frankophonie? Was sind frankophone Länder? Bei Bedarf Rpckfragen sammeln. 
-  (5 Minuten) 
+  (5 Minuten) <br><br>
 
 
 
@@ -38,7 +38,7 @@ Aufgaben:
   
   •	Seien Sie vorbereitet, die Raumkonzepte zu erklären 
   
-  (5 Minuten) 
+  (5 Minuten) <br><br>
 
   
 
@@ -53,12 +53,12 @@ Aufgaben:
   •	Überlegen Sie als Expert*innen anhand der Inhalte: Eignen sich die ausgewählten Raumkonzepte und warum? 
   
   •	Ergänzen Sie ggf. alternative Ideen zur Anwendung der Raumkonzepte 
-  (20 Minuten) 
+  (20 Minuten) <br><br>
   
 
 ## Durchführung der gemeinsamen Sitzung
 
-1. Französischdidaktiker*innen stellen die Poster vor: Gallery Walk zum inhaltlichen Austausch in den "Poster-Gruppen" mit jeweils 3-4 Geographiedidaktiker*innen (ca. 35 Minuten)
+1. Französischdidaktiker*innen stellen die Poster vor: Gallery Walk zum inhaltlichen Austausch in den "Poster-Gruppen" mit jeweils 3-4 Geographiedidaktiker*innen (ca. 35 Minuten)<br><br>
 
    
    
@@ -76,16 +76,16 @@ Aufgaben:
    
    • Eigene Erfahrungen mit interdisziplinärer Lehre austauschen
    
-   (30 Minuten) 
+   (30 Minuten) <br><br>
 
 
 ## Kompetenzen zur Förderung der transkulturellen Kompetenz im Rahmen eines fächerübergreifenden Projekts Geografie- und Französischdidaktik
 
-1.	Erwerb interkultureller Sensibilität: Die Studierenden sollen die Fähigkeit entwickeln, kulturelle Unterschiede zwischen der eigenen Kultur und den vielfältigen Kulturen der Frankophonie zu identifizieren, zu analysieren und zu reflektieren. Dies umfasst das Verständnis von Normen, Werten und Verhaltensweisen, die in verschiedenen geografischen und kulturellen Kontexten der Frankophonie eine Rolle spielen.
+1.	Erwerb interkultureller Sensibilität: Die Studierenden sollen die Fähigkeit entwickeln, kulturelle Unterschiede zwischen der eigenen Kultur und den vielfältigen Kulturen der Frankophonie zu identifizieren, zu analysieren und zu reflektieren. Dies umfasst das Verständnis von Normen, Werten und Verhaltensweisen, die in verschiedenen geografischen und kulturellen Kontexten der Frankophonie eine Rolle spielen.<br><br>
    
-2.	Wertschätzung kultureller Diversität: Die Studierenden sollen ein Bewusstsein für die kulturelle Vielfalt innerhalb der Frankophonie in Bezug zur Geografiedidaktik entwickeln.
+2.	Wertschätzung kultureller Diversität: Die Studierenden sollen ein Bewusstsein für die kulturelle Vielfalt innerhalb der Frankophonie in Bezug zur Geografiedidaktik entwickeln.<br><br>
    
-3.	Geografische und kulturelle Reflexion: Die Studierenden sollen die Wechselwirkungen zwischen geographischen Gegebenheiten und kulturellen Identitäten in der Frankophonie reflektieren. Dies umfasst die Analyse, wie geografische Faktoren wie Klima, Topografie und Ressourcenverteilung die kulturelle Entwicklung und die Lebensweisen der Menschen in frankophonen Ländern beeinflussen.
+3.	Geografische und kulturelle Reflexion: Die Studierenden sollen die Wechselwirkungen zwischen geographischen Gegebenheiten und kulturellen Identitäten in der Frankophonie reflektieren. Dies umfasst die Analyse, wie geografische Faktoren wie Klima, Topografie und Ressourcenverteilung die kulturelle Entwicklung und die Lebensweisen der Menschen in frankophonen Ländern beeinflussen.<br><br>
    
-4.	Praktische Anwendung transkultureller Kompetenzen: Die Studierenden sollen die Möglichkeit erhalten, ihr Wissen mit Studierenden eines anderen Fachbereichs zu teilen und in einem neuen Kontext anzuwenden.
+4.	Praktische Anwendung transkultureller Kompetenzen: Die Studierenden sollen die Möglichkeit erhalten, ihr Wissen mit Studierenden eines anderen Fachbereichs zu teilen und in einem neuen Kontext anzuwenden.<br><br>
 

@@ -9,18 +9,14 @@ header:
   caption: 'Photo: [**EnvirInfo**](https://www.flickr.com/photos/environmentalinformatics-marburg/29801769580/)'
   cta_label: Zum Kursinhalt
   cta_url: "/units.html"
-  cta_url: "/units.html"
 excerpt: Praxismodul
 feature_row_intro:
 - excerpt: Im [Lehramtstudium an der UMR]((https://www.uni-marburg.de/de/fb19/studium/studiengaenge/erdkunde-lehramt-gymnasium/herzlich-willkommen-beim-bachelor-geographie)){:target="_blank"} 
 feature_row_ilos:
-- image_path: "/assets/images/envobs_ilos.jpg"
-  alt: PC monitor laying in the garden of the institute.
-  title: Intended learning outcomes
-  excerpt: "Template..."
 ---
 
 {% include feature_row id="feature_row_intro" type="center" %}
+
 Herzlich willkommen im Profiwerk!
 Hier sollen Sie die Bedeutung fachwissenschaftlicher Leitideen sowie fachlicher Methoden zur Erkenntnisgewinnung als Grundlage für professions- und bildungstheoretisch
 fundiertes Handeln in der fachlichen Bildung reflektieren und so das gewonnene Fachverständnis in einen fachdidaktisch geleiteten Modellierungsprozess überführen. 

@@ -1,5 +1,5 @@
 ---
-title: Kurseinheiten
+
 id: Units
 header:
   image: "/assets/images/title-splash.jpg"
@@ -8,6 +8,9 @@ header:
 permalink: /units.html
 sidebar:
   nav: "units"
+sort_by: order
+
+
 ---
 
 {% include units_page %}

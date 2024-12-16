@@ -50,7 +50,7 @@ locale                   : "de-DE"
 # Build settings
 markdown: kramdown
 # theme: minima
-remote_theme: "GeoMOER/moer-jekyll-theme"
+remote_theme: "https://github.com/gisma-courses/moer-jekyll-theme"
 minimal_mistakes_skin    : "default"  #"air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 auto_ids: true
 
@@ -109,26 +109,57 @@ defaults:
       layout: single
       sidebar:
         nav: "course_unit"
-  # unit00
-  - scope:
-      path: ""
-      type: unit00
-    values:
-      category: "Seminar"
-      tags: "Unit 00"
-      layout: single
-      sidebar:
-        nav: "course_unit"
   # unit01
   - scope:
       path: ""
       type: unit01
     values:
-      category: "Zusatzmaterial"
+      category: "Einführung"
       tags: "Unit 01"
       layout: single
       sidebar:
+        nav: "course_unit" 
+  # unit01
+  - scope:
+      path: ""
+      type: unit02
+    values:
+      category: "Abstraktion und Modellieren"
+      tags: "Unit 02"
+      layout: single
+      sidebar:
         nav: "course_unit"    
+  # unit01
+  - scope:
+      path: ""
+      type: unit03
+    values:
+      category: "Diversität und Interdiszilinarität"
+      tags:  "Unit 02"
+      layout: single
+      sidebar:
+        nav: "course_unit"    
+  # unit01
+  - scope:
+      path: ""
+      type: unit04
+    values:
+      category: "Handreichungen"
+      tags: "Unit 04"
+      layout: single
+      sidebar:
+        nav: "course_unit"    
+  # unit01
+  - scope:
+      path: ""
+      type: unit05
+    values:
+      category: "Abgaben und Leistungen"
+      tags: "Unit 05"
+      layout: single
+      sidebar:
+        nav: "course_unit"    
+            
   # pages
   - scope:
       path: "_pages"
@@ -147,7 +178,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-algolia
-
+  - jekyll-mutex_m
 
 # Handling Reading
 encoding: UTF-8

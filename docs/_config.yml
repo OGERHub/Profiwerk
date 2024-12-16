@@ -134,7 +134,7 @@ defaults:
       path: ""
       type: unit03
     values:
-      category: "Diversität und Interdiszilinarität"
+      category: "Diversität und Interdisziplinarität"
       tags:  "Unit 02"
       layout: single
       sidebar:
